@@ -1,0 +1,23 @@
+19:40:49.318 INFO processP2 - read 41 from buffer.txt
+19:40:49.318 INFO processP2 - write 41 to p2.txt
+19:40:49.323 INFO processP2 - read 467 from buffer.txt
+19:40:49.323 INFO processP2 - write 467 to p2.txt
+19:40:49.328 INFO processP2 - read 334 from buffer.txt
+19:40:49.328 INFO processP2 - write 334 to p2.txt
+19:40:49.336 INFO processP2 - read 500 from buffer.txt
+19:40:49.336 INFO processP2 - write 500 to p2.txt
+19:40:49.342 INFO processP2 - read 1169 from buffer.txt
+19:40:49.342 INFO processP2 - write 1169 to p2.txt
+19:40:49.346 INFO processP2 - read 1724 from buffer.txt
+19:40:49.346 INFO processP2 - write 1724 to p2.txt
+19:40:49.354 INFO processP2 - read 1478 from buffer.txt
+19:40:49.354 INFO processP2 - write 1478 to p2.txt
+19:40:49.359 INFO processP2 - read 1358 from buffer.txt
+19:40:49.359 INFO processP2 - write 1358 to p2.txt
+19:40:49.363 INFO processP2 - read 962 from buffer.txt
+19:40:49.363 INFO processP2 - write 962 to p2.txt
+19:40:49.372 INFO processP2 - read 962 from buffer.txt
+19:40:49.372 INFO processP2 - write 962 to p2.txt
+19:40:49.374 INFO processP2 - read -1 from buffer.txt
+19:40:49.375 INFO processP2 - write -1 to p2.txt
+19:40:49.375 INFO processP2 - closed

@@ -1,0 +1,23 @@
+19:40:49.304 INFO processP1 - read 41 from buffer.txt
+19:40:49.317 INFO processP1 - write 41 to console
+19:40:49.322 INFO processP1 - read 467 from buffer.txt
+19:40:49.323 INFO processP1 - write 467 to console
+19:40:49.326 INFO processP1 - read 334 from buffer.txt
+19:40:49.328 INFO processP1 - write 334 to console
+19:40:49.335 INFO processP1 - read 500 from buffer.txt
+19:40:49.335 INFO processP1 - write 500 to console
+19:40:49.339 INFO processP1 - read 1169 from buffer.txt
+19:40:49.341 INFO processP1 - write 1169 to console
+19:40:49.345 INFO processP1 - read 1724 from buffer.txt
+19:40:49.345 INFO processP1 - write 1724 to console
+19:40:49.352 INFO processP1 - read 1478 from buffer.txt
+19:40:49.353 INFO processP1 - write 1478 to console
+19:40:49.357 INFO processP1 - read 1358 from buffer.txt
+19:40:49.358 INFO processP1 - write 1358 to console
+19:40:49.362 INFO processP1 - read 962 from buffer.txt
+19:40:49.363 INFO processP1 - write 962 to console
+19:40:49.370 INFO processP1 - read 464 from buffer.txt
+19:40:49.371 INFO processP1 - write 464 to console
+19:40:49.373 INFO processP1 - read -1 from buffer.txt
+19:40:49.374 INFO processP1 - write -1 to console
+19:40:49.374 INFO processP1 - closed

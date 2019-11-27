@@ -1,0 +1,12 @@
+19:40:48.871 INFO processP - write 41 to buffer.txt
+19:40:49.322 INFO processP - write 467 to buffer.txt
+19:40:49.325 INFO processP - write 334 to buffer.txt
+19:40:49.334 INFO processP - write 500 to buffer.txt
+19:40:49.338 INFO processP - write 1169 to buffer.txt
+19:40:49.344 INFO processP - write 1724 to buffer.txt
+19:40:49.352 INFO processP - write 1478 to buffer.txt
+19:40:49.356 INFO processP - write 1358 to buffer.txt
+19:40:49.361 INFO processP - write 962 to buffer.txt
+19:40:49.370 INFO processP - write 464 to buffer.txt
+19:40:49.372 INFO processP - write -1 to buffer.txt
+19:40:49.372 INFO processP - closed
